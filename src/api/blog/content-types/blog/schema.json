@@ -23,9 +23,6 @@
     },
     "blogImg": {
       "type": "string"
-    },
-    "latest": {
-      "type": "boolean"
     }
   }
 }
